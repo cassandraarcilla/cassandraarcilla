@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Cassandra
 
-💻 **IT Student | Web Development | Aspiring Full-Stack Developer**  
+💻 **IT Student | Web Development | Aspiring Front-End Developer**  
 Passionate about turning ideas into interactive, meaningful experiences through code.  
 
 ---
